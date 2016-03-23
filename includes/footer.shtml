@@ -1,0 +1,21 @@
+
+
+<div class="two columns">
+			<a href="introduction.html" title="#" aria-haspopup="true">Introduction</a>
+		</div>
+		<div class="two columns">
+			<a href="rationale.html" title="Rationale Page" aria-haspopup="true">Rationale</a>
+		</div>
+		<div class="two columns">
+			<a href="#" title="#" aria-haspopup="true">Prototype</a>
+		</div>
+		<div class="two columns">
+			<a href="#" title="#" aria-haspopup="true">Blog</a>
+		</div>
+		<div class="four columns">
+			<div>Powered by BCIT COMP 1950.</div>
+			<div>copyright &copy; Dream Team</div>
+			<div><a href="http://validator.w3.org/check?uri=referer">Validate Html</a>
+        </div>
+</div>
+   

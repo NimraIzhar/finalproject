@@ -1,0 +1,89 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<title>COMP 1950 Project Site</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="description" content="BCIT COMP 1950 project introduction">
+	<meta name="robots" content="index, follow">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" type="text/css" media="screen" href="css/normalize.css">
+	<link rel="stylesheet" type="text/css" media="screen" href="css/grid.css">
+	<link rel="stylesheet" type="text/css" media="screen" href="css/screen1.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+	<script src="js/jssor.slider.mini.js"></script>
+</head>
+<body>
+<div class="container">
+
+	<header>
+	<div class="row">
+		<div class="one column">&nbsp;</div>
+		<div class="two columns">
+			<a class="logo" title="Regal Nails Logo" href="index.html">
+			<img src="images/logo3.png"/>
+			</a>
+		</div>
+		<div class="eight columns">
+		<nav>
+			<ul>
+			<li><a href="introduction.html" title="#" aria-haspopup="true">Introduction</a>
+				<ul>
+				<li><a href="about_project.shtml">About Project</a></li>
+				<li><a href="about_resource.shtml">About Resource</a></li>
+				<li><a href="about_methodology.shtml">About Methodology</a></li>
+				</ul>
+			</li>
+			<li><a href="rationale.shtml" title="Rationale Page">Rationale</a></li>
+			<li><a href="#" title="Prototype site">Prototype </a></li>
+			</ul>
+		</nav>
+		</div>
+	</div>
+	</header>
+
+	<main class="introduction">
+		<h1 class="page-title round10">Project Introduction</h1>
+
+
+		<section class="row intro intro-content round5">
+		<div class="twelve columns">
+			<h2>About Project:</h2>
+			<p>
+This Project is all about redesigning of current COMP 1950 course website.
+			</p>
+			<p>
+Current site is not much user friendly as its categorized week based so individual have to walk through or search whole document to find something, e.g., week homework.
+			</p>
+		</div>
+		</section>
+
+
+		<section class="row intro intro-content round5">
+		<div class="twelve columns">
+			<h2>Our target audience is:</h2>
+			<p>
+<img src="images/introduction01.jpg">
+<ul>
+<li>Students (who are taking course)</li>
+<li>Instructors (who are teaching course)</li>
+<li>Alumni (who are already passed out but want to visit website for recent topics)</li>
+<li>Guests (who want to review course content)</li>
+</ul>
+
+			<p>
+Although different audience have different needs so ideally there should be accessibility limitations on each user for which site requires data base functionality. Content will remain same but will be presented in much organized way. Teacher should have access to add, edit or update the content.
+			</p>
+		</div>
+		</section>
+
+
+	</main>
+
+    <footer class="row">
+		 <!--#include file="includes/footer.shtml" -->	
+	</footer>
+
+</div><!-- /.container -->
+</body>
+</html>
